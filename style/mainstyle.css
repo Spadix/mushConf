@@ -1,0 +1,59 @@
+.login_form
+{
+	position: absolute;
+	left: 40%;
+	top: 40%;
+	height: 20%;
+	width: 20%;
+	background: #D95D30;
+	border-radius: 10px;
+	min-width: 200px;
+	min-height: 200px;
+}
+
+.registration_form
+{
+	position: absolute;
+	left: 35%;
+	top: 25%;
+	height: 50%;
+	width: 30%;
+	background: #D95D30;
+	border-radius: 10px;
+	min-width: 300px;
+	min-height: 400px;
+}
+
+.content
+{
+	padding: 10px;
+	text-align:center;
+}
+
+.user_img
+{
+	width: 50px;
+	height: 50px;
+}
+
+.login_button
+{
+	border-bottom: 2px solid #F2CAA7;
+	margin: 5px;
+	padding: 5px;
+	float: left;
+	text-decoration: none;
+	color: #F2CAA7;
+}
+
+.login_button:hover
+{
+	color: white;
+}
+
+.login_button_panel
+{
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+}

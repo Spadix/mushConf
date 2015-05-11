@@ -1,0 +1,35 @@
+.processlist
+{
+	height: 40px;
+	background-color:gray;
+}
+
+.workplace
+{
+}
+
+.timeline
+{
+	height: 14%;
+	background-color: aqua;
+}
+
+.modullist
+{
+	background-color:orange;
+	width: 20%;
+	position: absolute;
+	right: 80%;
+}
+
+.rightpanel
+{
+	width: 80%;
+	position: absolute;
+	left: 20%;
+}
+
+.content
+{
+	padding: 6px;
+}

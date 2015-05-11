@@ -1,0 +1,104 @@
+.notificationBar
+{
+	height: 60px;
+	width: 100%;
+	background: #732817;
+	background: linear-gradient(to top, #732817, #88483a);
+}
+
+/* rooms list */
+
+.roomlistbackground
+{
+	width: 50%;
+	position: absolute;
+	right: 50%;
+}
+
+.roomslist
+{
+	background-color: #a6372d;
+	margin: 6px;
+}
+
+.roomnavigatepanel
+{
+	border-top: 6px solid #a6372d;
+	background-color: #3c3c3c;
+	color: white;
+	text-align: center;
+	padding: 3px;
+}
+
+.roomicon
+{
+	background-color: #f2caa7;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	color: #742a1a;
+	width: 70px;
+	height: 70px;
+	text-align: center;
+	font-size: 60px;
+	font-weight: bold;
+	font-family: sans-serif;
+}
+
+
+/* */
+
+.rightBar
+{
+	width: 50%;
+	position: absolute;
+	left: 50%;
+}
+
+.userInfoBar
+{
+	height: 15%;
+	background-color:#A6372D;
+	color: white;
+}
+
+.userPanel
+{
+	height: 85%;
+	background-color:#F2CAA7;
+}
+
+.mainPanel
+{
+	width: 100%;
+}
+
+.content
+{
+	padding: 6px;
+}
+
+body
+{	
+	background-color: #F2CAA7;
+}
+
+.notificationItem
+{
+	border-left: 2px solid #a6372d;
+	margin: 6px;
+	color: white;
+	float: left;
+}
+
+.listOfModules
+{
+	width: 30%;
+	float: left;
+}
+
+.ModulesContent
+{
+	width: 70%;
+	float: left;
+}
+
+
